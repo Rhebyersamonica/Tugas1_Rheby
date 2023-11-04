@@ -19,7 +19,9 @@ TugasCoding1
         else {
         System.out.println("Rheby Ersa Monica");
         }
-        ```
+        4. Hasil Outputnya
+        ![Screenshot (38)](https://github.com/Rhebyersamonica/Tugas1_Rheby/assets/149590768/a9e11a28-c958-4e32-965d-626481f7808f)
+
 
         # Tugas 2
         1. Membaca input dari pengguna dan penamaan variabel yaitu number menggunakan type data integer
@@ -43,7 +45,9 @@ TugasCoding1
         System.out.print("Masukkan sebuah bilangan bulat (atau 0 untuk keluar): ");
         number = scanner.nextInt();
         }
-        ```
+        4. Hasil Outputnya
+        ![Screenshot (39)](https://github.com/Rhebyersamonica/Tugas1_Rheby/assets/149590768/06d64fc5-ba06-4aca-9cde-b6a19f414596)
+
 
         ##Tugas 3
         1. Kode ini membuat objek Scanner untuk menerima input dari pengguna melalui konsol. Pengguna diminta memasukkan tanggal lahir dalam format "hari bulan" (contoh: 11 8 untuk tanggal 11 Agustus). Input tersebut disimpan dalam variabel day dan month. Selanjutnya, program memanggil fungsi determineZodiacSign(day, month) untuk menentukan zodiak berdasarkan input pengguna. Hasilnya disimpan dalam variabel zodiacSign untuk digunakan selanjutnya.
@@ -87,7 +91,9 @@ TugasCoding1
         } else {
         return null;
         }
-        ```
+        5. Hasil Outputnya
+        ![Screenshot (40)](https://github.com/Rhebyersamonica/Tugas1_Rheby/assets/149590768/f5eddd3c-a28b-42fc-a9c7-ff7401347084)
+
         ## Tugas 4
         1. Kode tersebut membuat sebuah array numbers yang berisi bilangan bulat dari 1 hingga 10. Selanjutnya, menggunakan sebuah loop for, program mencetak nilai-nilai dalam array tersebut satu per satu ke layar. Hasilnya adalah mencetak bilangan 1 hingga 10 ke layar.
         ```sh
@@ -97,4 +103,6 @@ TugasCoding1
         for (int i = 0; i < numbers.length; i++) {
         System.out.println(numbers[i]);
         }
-        ```
+        2.Hasil Outputnya
+        ![Screenshot (41)](https://github.com/Rhebyersamonica/Tugas1_Rheby/assets/149590768/650c36cc-3c3c-412b-aa43-9f5fe699c889)
+
