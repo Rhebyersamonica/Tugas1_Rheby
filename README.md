@@ -94,6 +94,7 @@ TugasCoding1
         5. Hasil Outputnya
         ![Screenshot (40)](https://github.com/Rhebyersamonica/Tugas1_Rheby/assets/149590768/f5eddd3c-a28b-42fc-a9c7-ff7401347084)
 
+
         ## Tugas 4
         1. Kode tersebut membuat sebuah array numbers yang berisi bilangan bulat dari 1 hingga 10. Selanjutnya, menggunakan sebuah loop for, program mencetak nilai-nilai dalam array tersebut satu per satu ke layar. Hasilnya adalah mencetak bilangan 1 hingga 10 ke layar.
         ```sh
